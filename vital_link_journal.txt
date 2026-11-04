@@ -1,0 +1,7 @@
+Name,DOB,MRN,Allergies,Medications,Reason for Visit,BP,HR,Temp,Assessment,Plan
+<<<<<<< HEAD
+Bilbo Baggins,2890-09-22,123456,None,Herbal tea as needed for relaxation,Routine check-up before next adventure,118/76,68 bpm,98.4 F,Excellent health for a hobbit of his age.,Maintain balanced diet, regular walks, minimal dragon exposure 
+ealth for a hobbit of his age.,Maintain balanced diet, regular walks, minimal dragon exposure
+=======
+Bilbo Baggins,2890-09-22,123456,None,Herbal tea as needed for relaxation,Routine check-up before next adventure,118/76,68 bpm,98.4 F,Excellent health for a hobbit of his age.,Maintain balanced diet, regular walks, minimal dragon exposure
+>>>>>>> csv
